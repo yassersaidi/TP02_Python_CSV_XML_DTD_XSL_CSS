@@ -1,0 +1,7 @@
+#############################
+
+please use linux os to view mushaf.xml in the browser & install the two fonts 'Sindbad & KacstFarsi' to avoid font view problems, and get best appearance
+
+##############################
+
+and don't forget to change the stylesheet source in the xml file between (CSS & XSL)

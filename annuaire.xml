@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE annuaire SYSTEM "annuaire.dtd">
+<?xml-stylesheet type="text/xsl" href="annuaire.xsl"?>
+<annuaire>
+	<personne>
+		<identite>
+			<nom>Achour</nom>
+			<prenom>Hamza</prenom>
+			<adresse>
+				<rue>25 avenue de 05 juillet 1962 </rue>
+				<cp>16000</cp>
+				<ville>Alger</ville>
+				<tel>050252525</tel>
+			</adresse>
+		</identite>
+	</personne>
+	<personne>
+		<identite>
+			<nom>AOmar</nom>
+			<prenom>Ahmed</prenom>
+			<adresse>
+				<rue>18 avenue du Ibn Badis</rue>
+				<cp>10000</cp>
+				<ville>Bouira</ville>
+				<tel>050252525</tel>
+			</adresse>
+		</identite>
+	</personne>
+	<personne>
+		<identite>
+			<nom>Alouache</nom>
+			<prenom>Ayoub</prenom>
+			<adresse>
+				<rue>18 avenue du Didouche Mourad</rue>
+				<cp>42000</cp>
+				<ville>Tipaza</ville>
+				<tel>025942525</tel>
+			</adresse>
+		</identite>
+	</personne>
+	<personne>
+		<identite>
+			<nom>Khaladi</nom>
+			<prenom>Razika</prenom>
+			<adresse>
+				<rue>18 Ahmed Ben Aissa</rue>
+				<cp>10000</cp>
+				<ville>Bouira</ville>
+				<tel>052525250</tel>
+			</adresse>
+		</identite>
+	</personne>
+	<personne>
+		<identite>
+			<nom>Benkadour</nom>
+			<prenom>Ahmed</prenom>
+			<adresse>
+				<rue>18 avenue du Ibn Badis</rue>
+				<cp>10000</cp>
+				<ville>Bouira</ville>
+				<tel>050252525</tel>
+			</adresse>
+		</identite>
+	</personne>
+	<personne>
+		<identite>
+			<nom>Ribiai</nom>
+			<prenom>Hamada</prenom>
+			<adresse>
+				<rue>18 avenue du Ibn Badis</rue>
+				<cp>10000</cp>
+				<ville>Bouira</ville>
+				<tel>050252525</tel>
+			</adresse>
+		</identite>
+	</personne>
+</annuaire>

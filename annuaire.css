@@ -1,0 +1,57 @@
+
+annuaire {
+    background-color: #aaa;
+}
+
+personne {
+    display: table;
+    border: 1px solid #000;
+    margin:5px 0px 0px 5px;
+    padding:5px;
+    border-radius:5px;
+    background-color:#a11;
+}
+
+nom {
+    color: #fff;
+    font-family: 'Righteous', cursive;
+    font-size: 40px;
+    line-height: 60px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 0 #000;
+    margin: 10px 0 24px;
+}
+
+prenom {
+    font-size: 30px;
+    color: #DFBF84;
+    text-shadow: 1px 1px 0 #000;
+    margin: 10px 0 24px;
+    line-height: 50px;
+}
+
+adresse {
+    display: table;
+    color: #f6f6f6;
+    font-size: 16px;
+    line-height: 24px;
+}
+cp , rue , tel{
+    display: none;
+}
+ville{
+    display: block ;
+}
+
+
+
+cp {
+    padding: 15px;
+    font-size: 20px;
+    display: none;
+}
+
+tel {
+    color: #e8d4a7;
+    display: none;
+}

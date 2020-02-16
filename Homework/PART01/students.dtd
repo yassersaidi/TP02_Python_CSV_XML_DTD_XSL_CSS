@@ -1,0 +1,11 @@
+
+<!ELEMENT students (student*)>
+<!ELEMENT student (nom,prenom,matricule,s1,s2,credits,moyenne,observation)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT matricule (#PCDATA)>
+<!ELEMENT s1 (#PCDATA)>
+<!ELEMENT s2 (#PCDATA)>
+<!ELEMENT credits (#PCDATA)>
+<!ELEMENT moyenne (#PCDATA)>
+<!ELEMENT observation (#PCDATA)>

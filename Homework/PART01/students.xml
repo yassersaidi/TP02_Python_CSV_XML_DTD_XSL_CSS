@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+    <students>
+        <student>
+        	<nom>Rezouk</nom>
+			<prenom>Fares</prenom>
+			<matricule>A1</matricule>
+			<s1>10.25</s1>
+			<s2>11.25</s2>
+			<credits>66</credits>
+			<moyenne>10.75</moyenne>
+			<observation> Admis </observation>
+		</student>
+        <student>
+        	<nom>Gana</nom>
+			<prenom>Ahmed</prenom>
+			<matricule>A2</matricule>
+			<s1>9.36</s1>
+			<s2>8.55</s2>
+			<credits>20</credits>
+			<moyenne>8.955</moyenne>
+			<observation> Ajournee </observation>
+		</student>
+        <student>
+        	<nom>Saada</nom>
+			<prenom>Sabah</prenom>
+			<matricule>A3</matricule>
+			<s1>12.25</s1>
+			<s2>4</s2>
+			<credits>44</credits>
+			<moyenne>8.125</moyenne>
+			<observation> Ajournee </observation>
+		</student>
+        <student>
+        	<nom>Guellil</nom>
+			<prenom>Hamida</prenom>
+			<matricule>A4</matricule>
+			<s1>11.1</s1>
+			<s2>10.3</s2>
+			<credits>54</credits>
+			<moyenne>10.7</moyenne>
+			<observation> Admis </observation>
+		</student>
+        <student>
+        	<nom>Doumani</nom>
+			<prenom>Rabeh</prenom>
+			<matricule>A5</matricule>
+			<s1>8.3</s1>
+			<s2>9.01</s2>
+			<credits>46</credits>
+			<moyenne>8.655</moyenne>
+			<observation> Admis ave detts </observation>
+		</student>
+        <student>
+        	<nom>Saidi</nom>
+			<prenom>Ismail</prenom>
+			<matricule>A6</matricule>
+			<s1>10.88</s1>
+			<s2>1</s2>
+			<credits>55</credits>
+			<moyenne>5.94</moyenne>
+			<observation> Admis ave detts </observation>
+		</student>
+    </students>
